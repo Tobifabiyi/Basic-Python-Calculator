@@ -8,6 +8,8 @@ Certainly! Here's an example of a README file you can include in your calculator
 - Subtraction: Subtracts one number from another and returns the difference.
 - Multiplication: Multiplies two numbers and returns their product.
 - Division: Divides one number by another and returns the quotient. Handles division by zero gracefully, displaying an error message if the second number is zero.
+- Factorial
+- GCD (Greatest Commoin Divisor)
 
 ## Usage
 
